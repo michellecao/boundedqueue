@@ -1,2 +1,2 @@
 # boundedqueue
-Tread Safe Bounded Queue
+Tread Safe Blocking Queue
